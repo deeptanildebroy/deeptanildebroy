@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Real Time Cyber Attack Detection Project <br>🌱 I’m currently learning Data Science <br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeptanildebroy) 
