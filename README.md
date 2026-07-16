@@ -92,11 +92,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deeptanildebroy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeptanildebroy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=deeptanildebroy&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -104,17 +99,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deeptanildebroy&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deeptanildebroy/deeptanildebroy/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> 💡 This snake animation needs a one-time GitHub Action setup — instructions below.
-
----
 
 ## 🌐 Connect With Me
 
